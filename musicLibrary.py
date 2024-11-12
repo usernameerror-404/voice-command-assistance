@@ -127,7 +127,7 @@ music = {
      "secrets": "https://www.youtube.com/watch?v=qHm9MG9xw1o",
      
      "hall of fame": "https://www.youtube.com/watch?v=mk48xRzuNvA"
-
+#you can add more songs
 
         
         }
